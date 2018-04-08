@@ -1,0 +1,83 @@
+#box{
+	width: 600px;
+	margin: 0 auto;
+	background-color: white;
+	padding: 5px;
+	border:5px solid #7f8c8d;
+	border-radius: 5px;
+}
+.logo{
+
+	width: 150px;
+	text-align: center;
+
+}
+.login-form{
+	width: 500px;
+	margin: 0 auto;
+
+
+}
+.input-values{
+	width: 430px;
+	margin: 0 auto;
+	padding: 5px;
+}
+#login-btn{
+	margin-top: : 20px;
+	background-color: #3498db;
+	padding: 5px;
+	width: 89%;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	border: 2px;
+	border-radius:8px;
+}
+#reg-btn{
+	margin-top: 5px;
+	background-color: #2ecc71;
+	padding: 5px;
+	width: 89%;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom:20px;
+	border: 2px;
+	border-radius:8px;
+}
+#Sign-up{
+	margin-top: 5px;
+	background-color: #2ecc71;
+	padding: 5px;
+	width: 89%;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom:20px;
+	border: 2px;
+	border-radius:8px;
+}
+#back_btn{
+	margin-top: 5px;
+	background-color: #e67e22;
+	padding: 5px;
+	width: 25%;
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom:20px;
+	border: 2px;
+	border-radius:8px;
+}
+
+#question{
+	width: 1000px;
+	height: 100px;
+	margin-top: 25px;
+	background-color: #3498db;
+	border: 1px solid black;
+	border-radius: 25px;
+	margin: 0 auto;
+}
+
